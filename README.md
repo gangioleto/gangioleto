@@ -18,7 +18,7 @@
 - 🛠️ Trabalho como **Ajudante de TI no Grupo Fides** desde março de 2026: help desk, redes, Windows Server, Active Directory e aplicações internas
 - 🏫 Fiz o ensino médio integrado ao técnico em informática na Escola Anchieta (2023–2025)
 - 🚀 Junto com uma equipe, desenvolvo sites, aplicativos e sistemas para empresas na **GA TECH**
-- 🔎 Aberto a oportunidades em **suporte e infraestrutura de TI**, de preferência remotas
+- 🔎 Aberto a oportunidades em **TI e desenvolvimento de software**: suporte, infraestrutura, desenvolvimento web e sistemas
 - 🌎 Inglês pré-avançado
 
 ## Certificações
@@ -53,7 +53,6 @@
 | --- | --- | --- |
 | **Sistema de Portaria** | Sistema de controle de portaria que desenvolvi e entreguei para o Grupo Fiação Fides. | MySQL · XAMPP |
 | [**Cobra Arena**](https://github.com/gangioleto/jogo-java) | Jogo de cobrinha em arena contra 12 bots com IA própria, minimapa e placar, escrito em Java puro com Swing, sem dependências. | Java · Swing |
-| [**Portfólio**](https://github.com/gangioleto/portfolio) | Meu site pessoal, em construção, com projetos, experiências e contato. | Next.js · TypeScript · Tailwind |
 | **Bot de WhatsApp com IA** | Conector que lê as mensagens recentes do WhatsApp e responde automaticamente usando a API do Claude. Em desenvolvimento, em equipe. | IA · APIs |
 
 ## Contribuições
